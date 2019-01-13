@@ -1,21 +1,20 @@
-Version 1.3 12/14/18
 
-# DE-bating DD         
-
+# DE-bating DD   
 
 
-    0x01 Introduction
-    0x02 Main points to effectively DE-stroy DD                           
-    0x03 DE-flating DD DE-bate tactics                   
-    0x04 Misc tips and advice                                  
-    0x05 Definitions                                   
-    0x06 How to know if he is getting upset                                    
-    0x07 Resources     
+
+
+>    0x01 Introduction
+>    0x02 Main points to effectively DE-stroy DD                           
+>    0x03 DE-flating DD DE-bate tactics                   
+>    0x04 Misc tips and advice                                  
+>    0x05 Definitions                                   
+>    0x06 How to know if he is getting upset                                    
+>    0x07 Resources     
         
-.
 
-                                 -=[ Introduction ]=-
-                       [ Author: Those who are tired of his games ]
+##                                 -=[ Introduction ]=-
+###                       [ Author: Those who are tired of his games ]
 
 DD aka Darth Dawkins is a low-rent presupper who nonetheless gets the upper-hand in 
 many of his debates against unseasoned opponents. This is due to many reasons with the 
@@ -26,7 +25,7 @@ The following tips and resources should help crush his bones.
 
 
 
-                                     -=[ TLDR; ]=-
+##                                     -=[ TLDR; ]=-
 
 Darth Dawkins is a dishonest interlocutor. He deserve near zero charitably.  
 
@@ -47,7 +46,7 @@ they will often contradict his position
 
 
 
-                     -=[ Main points to effectively DE-stroy DD ]=-
+##                     -=[ Main points to effectively DE-stroy DD ]=-
 
 
 Darth Dawkins is a dishonest interlocutor. He deserve near zero charitably.  
@@ -69,7 +68,7 @@ they will often contradict his position
 
 
 
-                         -=[ DE-flating DD DE-bate tactics ]=-
+##                         -=[ DE-flating DD DE-bate tactics ]=-
 
 Regarding DE-bating specifically, DD uses the following tactics to DE-feat his opponents
 
@@ -98,7 +97,7 @@ WIP
 
 
 
-                                 -=[ Misc tips and advice]=-
+##                                 -=[ Misc tips and advice]=-
 
 
 1. DD is often wrong but he's not wrong about the problem of induction
@@ -125,7 +124,7 @@ of the arguments against his worldview come from Christians).
 
 
 
-                                 -=[ Definitions ]=-
+##                                 -=[ Definitions ]=-
 
 Presuppositionalism: is a school of Christian apologetics that believes the Christian 
 faith is the only basis for rational thought. It presupposes that the Bible is divine 
@@ -140,7 +139,7 @@ Link1:https://en.wikipedia.org/wiki/Principle_of_charity
 
 
 
-                        -=[ How to know if he is getting upset ]=-
+##                        -=[ How to know if he is getting upset ]=-
 
 1."DON'T OVER TALK ME"
 
@@ -158,7 +157,7 @@ Link1:https://en.wikipedia.org/wiki/Principle_of_charity
 
 
 
-                                 -=[ Resources ]=-
+##                                 -=[ Resources ]=-
 				 
 Darwins Greatest Hits: A youtube channel wiht recordings of him.
 https://www.youtube.com/channel/UCpC_OnIpUVCUhwmVcz1VaGg
@@ -182,8 +181,9 @@ https://www.youtube.com/channel/UCpC_OnIpUVCUhwmVcz1VaGg
                              x x     x x     x x     x x
                             x   x   x   x   x   x   x   x
                            x x x x x x x x x x x x x x x x
-                                 -=[ Edit By:Jay ]=-
-              -=[ If you dont like it suckit. Information is open to all]=-
+			   
+###              -=[ If you dont like it suckit. Information is open to all]=-
 
 Original can be found: https://github.com/LaintheDegen/Darth/
+
 Old repository https://pastebin.com/NHGLCW7h
