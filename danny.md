@@ -4,4 +4,4 @@ transman: girl
 
 transwoman: boy
 
-Souls: Something about soul particles.**Tentative**
+Souls: Something about soul particles. **Tentative**
