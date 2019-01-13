@@ -13,3 +13,5 @@ Dignity Culture: Best culture
 Honor Culture: Worst culture, even weebs
 
 Knowledge: the consistencies in our experience
+
+Psuedo philosophers: Someone who sucks at philosophy and engages in dishonest and cognitive dissonance.
