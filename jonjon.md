@@ -23,6 +23,6 @@ Psuedo philosophers: Someone who sucks at philosophy and engages in dishonest an
 
 ### Definitions Needed
 
-Post-Modernism
+Postmodernism
  
  
