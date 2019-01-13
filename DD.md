@@ -1,5 +1,6 @@
 
-# DE-bating DD   
+# -=[ DE-bating DD ]=-  
+###                       [ Author: Those who are tired of his games ]
 
 
 
@@ -14,7 +15,7 @@
         
 
 ##                                 -=[ Introduction ]=-
-###                       [ Author: Those who are tired of his games ]
+
 
 DD aka Darth Dawkins is a low-rent presupper who nonetheless gets the upper-hand in 
 many of his debates against unseasoned opponents. This is due to many reasons with the 
