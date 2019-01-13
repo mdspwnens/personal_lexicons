@@ -1,4 +1,5 @@
 # JonJon
+### "Skateboarding, rapping, stoner-philosopher"-JonJon
 
 Religion: Acting in accordance with a deeply held set of ethics and values
 
@@ -15,3 +16,13 @@ Honor Culture: Worst culture, even weebs
 Knowledge: the consistencies in our experience
 
 Psuedo philosophers: Someone who sucks at philosophy and engages in dishonest and cognitive dissonance.
+
+## Quotes
+
+ "I am a post modernist." -JonJon
+
+### Definitions Needed
+
+Post-Modernism
+ 
+ 
